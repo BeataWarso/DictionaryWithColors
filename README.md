@@ -1,4 +1,4 @@
-# DictionaryWithColorsIts
+# DictionaryWithColors
 
 Its a mini doctionary with just a few words, to show how it works.
 I put in map colors in english and polish.
